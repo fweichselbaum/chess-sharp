@@ -16,8 +16,8 @@ namespace WPF_Chess.GameLogic.Pieces {
             ResourceKey = (IsBlackPiece ? "Black" : "White") + GetType().Name;
         }
 
-        public List<(int,int)> GetMoves() {
-            Enumerable.
+        public List<(int, int)> GetMoves() {
+            throw new NotImplementedException();
         }
     }
 }

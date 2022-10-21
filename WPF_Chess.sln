@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF_Chess", "WPF_Chess\WPF_Chess.csproj", "{F90E1BE5-E0B8-4D36-87BE-D6342E3AD655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90E1BE5-E0B8-4D36-87BE-D6342E3AD655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90E1BE5-E0B8-4D36-87BE-D6342E3AD655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90E1BE5-E0B8-4D36-87BE-D6342E3AD655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90E1BE5-E0B8-4D36-87BE-D6342E3AD655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0961CF9D-C4F5-4509-B96B-080672F1724D}
+	EndGlobalSection
+EndGlobal
